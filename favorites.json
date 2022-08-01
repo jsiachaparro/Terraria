@@ -47,9 +47,16 @@
     "Reino_Nublado_de_Asesino.wld": false,
     "El_Valle_de_Agua_estancada.wld": false,
     "Sima_Natural_de_Bandidos.wld": false,
-    "Sabana_Majo_de_la_Espada.wld": false
+    "Sabana_Majo_de_la_Espada.wld": false,
+    "Jardín_de_Invasiones.wld": false,
+    "Foso_Agitado_de_Cuernos.wld": false,
+    "Respiro_de_Perneras.wld": false,
+    "Perturbado_Dimensión.wld": false,
+    "Dosel_de_Motosierras.wld": false,
+    "El_Páramos_Asilvestrado.wld": true
   },
   "Player": {
-    "Ronald.plr": false
+    "Ronald.plr": false,
+    "Victarion.plr": true
   }
 }
