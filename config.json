@@ -21,7 +21,7 @@
   "WindowBorderless": false,
   "DisplayWidth": 1366,
   "DisplayHeight": 696,
-  "GraphicsQuality": 2,
+  "GraphicsQuality": 0,
   "BackgroundEnabled": true,
   "FrameSkipMode": 2,
   "LightingMode": 2,
